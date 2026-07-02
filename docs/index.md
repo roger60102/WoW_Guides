@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "魔獸世界指南"
-  text: "各職業與首領戰筆記"
+  name: "WoW_12.1_烏拉特克的詛咒"
+  text: "職業與首領戰筆記"
   tagline: 簡單清晰好記憶!
   actions:
     - theme: brand

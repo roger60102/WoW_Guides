@@ -3,19 +3,19 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "魔獸世界指南",
-  description: "各職業與首領戰筆記",
+  description: "職業與首領戰筆記",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首頁', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '筆記', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
         text: '職業',
         items: [
-          { text: '暴徒盜賊', link: '/markdown-examples' },
+          { text: '暴徒盜賊', link: '/WoW/classes/Outlaw_Rogue.md' },
           { text: '冰霜死亡騎士', link: '/api-examples' }
         ]
       },
