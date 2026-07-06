@@ -2,8 +2,19 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "魔獸世界指南",
+  title: "魔獸世界筆記",
   description: "職業與首領戰筆記",
+
+  markdown: {
+    container: {
+      tipLabel: '提示',
+      warningLabel: '警告',
+      dangerLabel: '危險',
+      infoLabel: '訊息',
+      detailsLabel: '優化細節'
+    }
+  },
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
