@@ -19,40 +19,33 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首頁', link: '/' },
-      { text: '筆記', link: '/markdown-examples' }
+      { text: '筆記', link: '/notes' }
     ],
 
     sidebar: [
       {
-        text: '職業',
-        items: [
-          { text: '暴徒盜賊', link: '/WoW/classes/Outlaw_Rogue.md' },
-          { text: '冰霜死亡騎士', link: '/api-examples' }
-        ]
-      },
-      {
         text: '探究',
         items: [
-          { text: 'Azta\'rec', link: '' }
+          { text: 'Azta\'rec', link: '/WoW/Delves/Azta\'rec.md' }
         ]
       },
       {
         text: 'M+',
         items: [
-          { text: '兇殺路', link: '' },
-          { text: '納羅拉克洞穴', link: '' },
-          { text: '盲目谷地', link: '' },
-          { text: '虛空之痕競技場', link: '' },
-          { text: '毒牙祭壇', link: '' },
-          { text: '諸王之眠', link: '' },
-          { text: '瑟沙利斯神廟', link: '' },
-          { text: '晶紅生命之池', link: '' }
+          { text: '兇殺路', link: '/WoW/mplus/Murder_Row.md' },
+          { text: '納羅拉克之穴', link: '/WoW/mplus/Den_of_Nalorakk.md' },
+          { text: '盲目谷地', link: '/WoW/mplus/The_Blinding_Vale.md' },
+          { text: '虛空之痕競技場', link: '/WoW/mplus/Voidscar_Arena.md' },
+          { text: '毒牙祭壇', link: '/WoW/mplus/Altar_of_Fangs.md' },
+          { text: '諸王之眠', link: '/WoW/mplus/Kings\'_Rest.md' },
+          { text: '瑟沙利斯神廟', link: '/WoW/mplus/Temple_of_Sethraliss.md' },
+          { text: '晶紅生命之池', link: '/WoW/mplus/Ruby_Life_Pools.md' }
         ]
       },
       {
         text: '團本',
         items: [
-          { text: 'the Venomous Abyss', link: '' }
+          { text: 'the Venomous Abyss', link: '/WoW/raids/the_Venomous_Abyss.md' }
         ]
       }
     ],
