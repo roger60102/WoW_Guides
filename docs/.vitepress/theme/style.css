@@ -100,10 +100,25 @@
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    #bd34fe 50%,
-    #47caff 50%
+    #aafe34 50%,
+    #41ff8a 50%
   );
   --vp-home-hero-image-filter: blur(44px);
+}
+
+.VPHero .name {
+  /* 字體大小隨螢幕寬度自動縮放，最小2rem，最大3rem */
+  font-size: clamp(2rem, 5vw, 3rem) !important; 
+}
+
+.VPHero .text {
+  font-size: clamp(1.5rem, 3vw, 2rem) !important; 
+  line-height: 1.2; /* 調整行高 */
+}
+
+.VPHero .tagline{
+  font-size: clamp(1.2rem, 1vw, 1.5rem) !important;
+  line-height: 1.2;
 }
 
 @media (min-width: 640px) {

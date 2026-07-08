@@ -7,10 +7,10 @@ export default defineConfig({
 
   markdown: {
     container: {
-      tipLabel: '提示',
-      warningLabel: '警告',
-      dangerLabel: '危險',
-      infoLabel: '訊息',
+      tipLabel: '提醒',
+      warningLabel: '注意',
+      dangerLabel: '致命',
+      infoLabel: '資訊',
       detailsLabel: '優化細節'
     }
   },
@@ -19,7 +19,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首頁', link: '/' },
-      { text: '筆記', link: '/notes' }
+      { text: '筆記', link: '/WoW/index.md' }
     ],
 
     sidebar: [
