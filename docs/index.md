@@ -43,7 +43,7 @@ features:
 - [▶ 兇殺路](/WoW/mplus/Murder_Row.md)
 - [▶ 納羅拉克之穴](/WoW/mplus/Den_of_Nalorakk.md)
 - [▶ 盲目谷地](/WoW/mplus/The_Blinding_Vale.md)
-- [▶ 虛無之痕競技場](/WoW/mplus/Voidscar_Arena.md)
+- [▶ 虛痕競技場](/WoW/mplus/Voidscar_Arena.md)
 - [▶ 毒牙祭壇](/WoW/mplus/Altar_of_Fangs.md)
 - [▶ 諸王之眠](/WoW/mplus/Kings\'_Rest.md)
 - [▶ 瑟沙利斯神廟](/WoW/mplus/Temple_of_Sethraliss.md)
