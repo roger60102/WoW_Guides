@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/WoW_Guides/',
   title: "魔獸世界筆記",
   description: "職業與首領戰筆記",
 

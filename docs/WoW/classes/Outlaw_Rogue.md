@@ -27,13 +27,19 @@
 
 ### 基礎循環
 
-使用技能集連擊點至**6星**以上，再使用終結技。
+首先塗好毒藥，通常是塗**速效毒藥**和**萎縮毒藥**，接著最好進**潛行**。
+
+戰鬥過程使用技能集連擊點至**6星**以上，再使用終結技。
 終結技至少要有1星才能使用，並且消耗的連擊點多寡，會影響效果強度(如: 傷害、持續時間)。
 
-- **邪惡攻擊**: 最基本集連擊點的技能，賦予1星。
-- **抹殺**: 最基本的終結技。
-- **手槍射擊**: 遠程技能，賦予1星。只有在發亮時使用。
-- **正中眉心**: 遠程技能，效益最高的終結技。CD結束就用。
+- <img src="../../images/sinisterstrike.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**邪惡攻擊**: 
+最基本獎勵連擊點的技能，賦予1星。
+- <img src="../../images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**抹殺**: 
+最基本的終結技。
+- <img src="../../images/pistolshot.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**手槍射擊**: 
+獎勵連擊點的遠程技能，賦予1星。只有在發亮時使用，可獎勵4星。
+- <img src="../../images/betweentheeyes.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**正中眉心**: 
+遠程技能，效益最高的終結技。CD結束就用。
 
 連擊技優先級: **高亮手槍** > **邪惡攻擊**。
 
@@ -47,18 +53,20 @@
 
 ### 核心能力
 
-- **能量刺激**: 最重要的大招之一，增加攻速與能量回復速度、提高能量上限。CD結束就用。
-- **命運之骰**: 隨機賦予四階效果中的其中一階。身上沒有骰子buff時，CD結束就用。
+- <img src="../../images/adrenalinerush.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**能量刺激**: 
+最重要的大招之一，增加攻速與能量回復速度、提高能量上限。CD結束就用。
+- <img src="../../images/rollthebones.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**命運之骰**: 
+隨機賦予四階效果中的其中一階。身上沒有骰子buff時，CD結束就用。
 
 ::: details
 如果當前戰鬥很快就要結束，**能量刺激**可以扣著不用。
-因為天賦關係，施放**能量刺激**時會賦予滿星連擊點。
+因為天賦關係，施放**能量刺激**時會獎勵滿星連擊點。
 **能量刺激**還有個沒有明寫的效果，施放期間gdc暫時會受到加速屬性影響，最多減至0.8秒。
 以盜賊而言，從1秒降至0.8秒，加速要疊到將近25%，這也是為什麼暴徒需要優先疊加速的原因。
 
 由於天賦使得**能量刺激**會賦予**灌鉛骰子**，下一次**命運之骰**必定獲得二階以上的buff，加上**命運之骰**的第一階buff效果不強，因此身上若是一階效果就再骰一次。
 **命運之骰**每一階效果骰到的機率分別是55%(一階)、30%(二階)、10%(三階)與5%(四階)，並且具向下兼容(ex: 若骰到二階，同時擁有一階的效果)。
-二階骰子buff會使**邪惡攻擊**額外賦予1星連擊點，而**高亮手槍**會賦予4星，因此: 
+二階骰子buff會使**邪惡攻擊**額外獎勵1星連擊點，而**高亮手槍**會獎勵4星，因此: 
 - 1~3星時，使用**高亮手槍**
 - 4或5星時，使用**邪惡攻擊**
 - 6、7星時，使用終結技
@@ -66,18 +74,23 @@
 
 ### CD技能
 
-- **劍刃亂舞**: 使自身單體攻擊能以百分比複製至周圍目標。2目標以上且身上沒有劍刃亂舞時，CD結束就用。
-- **劍刃猛攻**: 不消耗資源的技能，還能提供微量能量回復，會位移至目標周圍。CD結束就用。
-- **狂舞殘殺**: 引導型終結技，傷害一般，會在引導期間逐漸返還連擊點。CD結束就用。
-- **骰個不停**: 使身上的骰子buff時間延長30秒。若身上骰子buff為三階以上，CD結束就用。
-- **備戰**: 立即刷新**能量刺激**、**狂舞殘殺**、**劍刃猛攻**、**正中眉心**與**劍刃亂舞**。當**能量刺激**、**劍刃猛攻**與**正中眉心**CD時使用。
+- <img src="../../images/bladeflurry.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃亂舞**: 
+使自身單體攻擊能以百分比複製至周圍目標。2目標以上且身上沒有劍刃亂舞時，CD結束就用。
+- <img src="../../images/bladerush.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃猛攻**: 
+不消耗資源的技能，還能提供微量能量回復，會位移至目標周圍。CD結束就用。
+- <img src="../../images/killingspree.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**狂舞殘殺**: 
+引導型終結技，傷害一般，會在引導期間逐漸返還連擊點。CD結束就用。
+- <img src="../../images/keepitrolling.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**骰個不停**: 
+使身上的骰子buff時間延長30秒。若身上骰子buff為三階以上，CD結束就用。
+- <img src="../../images/preparation.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**備戰**: 
+立即刷新**能量刺激**、**狂舞殘殺**、**劍刃猛攻**、**正中眉心**與**劍刃亂舞**。當**能量刺激**、**劍刃猛攻**與**正中眉心**CD時使用。
 
 連擊技優先級: **劍刃亂舞** > **高亮手槍** > **邪惡攻擊**
 
 終結技優先級: **正中眉心** > **狂舞殘殺** > **抹殺**
 
 ::: details
-由於天賦因素，**劍刃亂舞**每命中1個目標也能獲得1星連擊點，根據大數據模擬，面對4目標以上且身上已有**劍刃亂舞**時，仍可作為集連擊點的技能卡CD用。
+由於天賦因素，**劍刃亂舞**每命中1個目標也能獎勵1星連擊點，根據大數據模擬，面對4目標以上且身上已有**劍刃亂舞**時，仍可作為獎勵連擊點的技能卡CD用。
 2目標以上時，**劍刃猛攻**在身上有**劍刃亂舞**的情況下可增傷。
 
 **狂舞殘殺**能給多個目標上debuff，並且可以利用引導期間回復能量。
@@ -94,7 +107,7 @@
 
 - **能量刺激**
 - **命運之骰**
-- **骰個不停**(若骰子buff為三階以上)
+- **骰個不停**(若骰子buff為三階以上) + 爆發藥水 + 飾品主動技
 - **抹殺**
 - **劍刃亂舞**(若2目標以上)
 - **劍刃猛攻**
