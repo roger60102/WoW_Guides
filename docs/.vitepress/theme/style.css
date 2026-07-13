@@ -152,3 +152,49 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/* 定義觸發提示的文字容器 */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  color: var(--vp-c-brand-1); /* 讓技能名稱顯示 VitePress 的主題主色 */
+  cursor: help; /* 讓滑鼠游標變成問號，提示使用者可以移上去 */
+  /*border-bottom: 1px dashed var(--vp-c-brand-1); /* 下方加虛線 */
+}
+
+/* 定義浮現的框框（預設隱藏） */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 240px; /* 提示框的寬度 */
+  background-color: var(--vp-c-bg-elv); /* 使用 VitePress 內建的卡片背景色 */
+  color: var(--vp-c-text-1); /* 使用內建文字顏色 */
+  text-align: left;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  padding: 8px 12px;
+  position: absolute;
+  z-index: 100;
+  bottom: 125%; /* 顯示在文字上方 */
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  white-space: normal; /* 允許提示框內文字換行 */
+}
+
+/* 滑鼠移上去時顯示框框 */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+/* 加一個小箭頭指向文字 */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: var(--vp-c-bg-elv) transparent transparent transparent;
+}

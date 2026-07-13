@@ -44,9 +44,9 @@
 [<img src="../images/preservation.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**護存**]()
 ::: 
 ::: details <img src="../images/rogue.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">盜賊
-[<img src="../images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**刺殺**]()
+[<img src="../images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**刺殺**](/WoW/classes/Assassination_Rogue.md)
 
-[<img src="../images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**敏銳**]()
+[<img src="../images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**敏銳**](/WoW/classes/Subtlety_Rogue.md)
 
 [<img src="../images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**暴徒**](/WoW/classes/Outlaw_Rogue.md)
 ::: 
