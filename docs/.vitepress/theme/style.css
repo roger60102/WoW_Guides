@@ -198,3 +198,59 @@
   border-style: solid;
   border-color: var(--vp-c-bg-elv) transparent transparent transparent;
 }
+
+/* 外層容器: 負責橫向排列、固定間隔 */
+.game-grid-container {
+  display: flex;
+  flex-direction: column; /* 手機版預設垂直排列 */
+  gap: 16px;              /* 卡片間隔 */
+  margin: 24px 0;
+}
+
+/* 卡片本體 */
+.game-card {
+  flex: 1; /* 每個卡片均分寬度 */
+  background-color: var(--vp-c-bg-elv); /* VitePress內建卡片底色 */
+  border: 1px solid var(--vp-c-divider); /* 內建邊框顏色 */
+  border-radius: 8px;
+  padding: 20px;
+  text-decoration: none !important; /* 移除超連結下底線 */
+  color: var(--vp-c-text-1) !important; /* 保持內建文字顏色 */
+  transition: all 0.25s ease;
+  text-align: center; /* 卡片內所有內容置中 */
+}
+
+/* 滑鼠移上去的懸停特效 */
+.game-card:hover {
+  border-color: var(--vp-c-brand-1); /* 懸停時邊框變主色 */
+  transform: translateY(-2px);       /* 微幅上飄 */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* 卡片內圖示 */
+.game-card .card-icon {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+/* 卡片內標題 */
+.game-card .card-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--vp-c-brand-1); /* 標題使用主題顏色 */
+  margin-bottom: 6px;
+}
+
+/* 卡片內敘述文字 */
+.game-card .card-desc {
+  font-size: 0.9rem;
+  color: var(--vp-c-text-2); /* 較淡的輔助文字顏色 */
+  line-height: 1.5;
+}
+
+/* 螢幕寬度大於768px(桌機版)時，自動切換成橫向三欄並排 */
+@media (min-width: 768px) {
+  .game-grid-container {
+    flex-direction: row; /* 橫向並排 */
+  }
+}

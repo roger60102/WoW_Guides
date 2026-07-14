@@ -1,9 +1,36 @@
-# 暴徒盜賊12.0
+<div class="game-grid-container">
+  
+  <a href="/WoW_Guides/WoW/classes/Assassination_Rogue.html" class="game-card">
+    <div class="card-icon">
+    <img src="../../images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    </div>
+    <div class="card-title">刺殺盜賊筆記</div>
+    <div class="card-desc"></div>
+  </a>
 
+  <a href="/WoW_Guides/WoW/classes/Subtlety_Rogue.html" class="game-card">
+    <div class="card-icon">
+    <img src="../../images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    </div>
+    <div class="card-title">敏銳盜賊筆記</div>
+    <div class="card-desc"></div>
+  </a>
+
+  <a href="/WoW_Guides/WoW/classes/Outlaw_Rogue.html" class="game-card">
+    <div class="card-icon">
+    <img src="../../images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    </div>
+    <div class="card-title">暴徒盜賊筆記</div>
+    <div class="card-desc"></div>
+  </a>
+
+</div>
+
+# 暴徒盜賊12.0
 ![outlaw](../../images/outlaw.png)
+最後編輯時間: 2026/07/14
 
 ## 簡介
-
 暴徒目前的強度大概是T1級別。雖然和T0專精有差距，但絕對稱不上弱勢，尤其在特定隊伍組成的情況下還是有一定強度。
 
 上手難度高，初期熟悉時容易因手忙腳亂，傷害打不出來而有挫折。
@@ -15,7 +42,6 @@
 **缺點**: 操作複雜、團隊功能性弱、爆發傷害普通、吃運氣
 
 ## 天賦
-
 單體天賦和aoe天賦幾乎沒有變化，甚至可以直接無腦使用aoe天賦到底。
 因為即便把aoe用的點數拿去點其他天賦，對單體也沒什麼明顯的提升，更何況現在很少有真的純單體的戰鬥。
 因此本篇會直接以aoe天賦來說明，新手可以把天賦**隱匿**替換成**死亡謊言**。
@@ -24,15 +50,40 @@
 - aoe天賦代碼: CQQAphyM11FofNMFa1K3vFEDUCgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYADmtZxMzMamZjZhltpF2YAmZmZGYA
 
 ## 技能
-
 ### 基礎循環
-
-首先塗好毒藥，通常是塗**速效毒藥**和**萎縮毒藥**，接著最好進**潛行**。
+首先塗好毒藥，通常是塗
+<span class="tooltip">
+**速效毒藥**
+<span class="tooltiptext">
+<img src="../../images/instantpoison.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+**速效毒藥**<br>
+*瞬發*<br>
+在你的武器上塗抹猛烈毒藥，持續1小時。每次攻擊都有30%的機率使敵人中毒，立即造成自然傷害。
+</span></span>
+和
+<span class="tooltip">
+**萎縮毒藥**
+<span class="tooltiptext">
+<img src="../../images/atrophicpoison.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+**萎縮毒藥**<br>
+*瞬發*<br>
+在你的武器上塗抹非猛烈毒藥，持續1小時。每次攻擊有30%的機率使敵人中毒，使其造成的傷害降低3%，持續10秒。
+</span></span>
+，接著最好進
+<span class="tooltip">
+**潛行**
+<span class="tooltiptext">
+<img src="../../images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+**潛行**<br>
+*瞬發*<br>
+潛入暗影之中，使你能夠在不被發現的情況下追蹤敵人，直到主動取消。
+</span></span>
+。
 
 戰鬥過程使用技能集連擊點至**6個**以上，再使用終結技。
 終結技至少要有1個連擊點才能使用，並且消耗的連擊點多寡，會影響效果強度(如: 傷害、持續時間)。
 
-- <img src="../../images/sinisterstrike.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;"><span class="tooltip">**邪惡攻擊**<span class="tooltiptext">**邪惡攻擊**<br>*45能量*<br>*瞬發*<br>*近戰範圍*<br>猛烈攻擊一名敵人，造成物理傷害<br>*獎勵1個連擊點*</span></span>: 
+- <img src="../../images/sinisterstrike.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**邪惡攻擊**: 
 最基本的連擊技能，獎勵1個連擊點。
 - <img src="../../images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**抹殺**: 
 最基本的終結技。
@@ -40,19 +91,22 @@
 遠程連擊技，獎勵1個連擊點。只有在發亮時使用，可獎勵4個連擊點。
 - <img src="../../images/betweentheeyes.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**正中眉心**: 
 遠程技能，效益最高的終結技。CD結束就用。
+- <img src="../../images/bladeflurry.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃亂舞**: 
+使自身單體攻擊能以百分比複製至周圍目標。2目標以上且身上沒有劍刃亂舞時，CD結束就用。
 
-連擊技優先級: **高亮手槍** > **邪惡攻擊**。
+連擊技優先級: **劍刃亂舞** > **高亮手槍** > **邪惡攻擊**
 
-終結技優先級: **正中眉心** > **抹殺**。
+終結技優先級: **正中眉心** > **抹殺**
 
 ::: details
 **切割**也是終結技，效果是增加攻速。
 被動**急起直追**使得施放**抹殺**時，自動賦予**切割**效果。
 因此若身上還沒有**切割**時，通常進戰鬥後的第一個終結技會使用**抹殺**。
+
+由於天賦因素，**劍刃亂舞**每命中1個目標也能獎勵1個連擊點，根據大數據模擬，面對4目標以上且身上已有**劍刃亂舞**時，仍可作為獎勵連擊點的技能卡CD用。
 :::
 
 ### 核心能力
-
 - <img src="../../images/adrenalinerush.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**能量刺激**: 
 最重要的大招之一，增加攻速與能量回復速度、提高能量上限。CD結束就用。
 - <img src="../../images/rollthebones.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**命運之骰**: 
@@ -67,15 +121,12 @@
 由於天賦使得**能量刺激**會賦予**灌鉛骰子**，下一次**命運之骰**必定獲得二階以上的buff，加上**命運之骰**的第一階buff效果不強，因此身上若是一階效果就再骰一次。
 **命運之骰**每一階效果骰到的機率分別是55%(一階)、30%(二階)、10%(三階)與5%(四階)，並且具向下兼容(ex: 若骰到二階，同時擁有一階的效果)。
 二階骰子buff會使**邪惡攻擊**額外獎勵1個連擊點，而**高亮手槍**會獎勵4個連擊點，因此: 
-- 1~3星時，使用**高亮手槍**
+- 0~3星時，使用**高亮手槍**
 - 4或5星時，使用**邪惡攻擊**
 - 6、7星時，使用終結技
 ::: 
 
 ### CD技能
-
-- <img src="../../images/bladeflurry.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃亂舞**: 
-使自身單體攻擊能以百分比複製至周圍目標。2目標以上且身上沒有劍刃亂舞時，CD結束就用。
 - <img src="../../images/bladerush.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃猛攻**: 
 不消耗資源的技能，還能提供微量能量回復，會位移至目標周圍。CD結束就用。
 - <img src="../../images/killingspree.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**狂舞殘殺**: 
@@ -90,7 +141,6 @@
 終結技優先級: **正中眉心** > **狂舞殘殺** > **抹殺**
 
 ::: details
-由於天賦因素，**劍刃亂舞**每命中1個目標也能獎勵1個連擊點，根據大數據模擬，面對4目標以上且身上已有**劍刃亂舞**時，仍可作為獎勵連擊點的技能卡CD用。
 2目標以上時，**劍刃猛攻**在身上有**劍刃亂舞**的情況下可增傷。
 
 **狂舞殘殺**能給多個目標上debuff，並且可以利用引導期間回復能量。
@@ -104,7 +154,6 @@
 :::
 
 ### 簡易開場
-
 - **能量刺激**
 - **命運之骰**
 - **骰個不停**(若骰子buff為三階以上) + 爆發藥水 + 飾品主動技
@@ -112,3 +161,6 @@
 - **劍刃亂舞**(若2目標以上)
 - **劍刃猛攻**
 - 按照技能優先級施放
+
+## 資料參考
+- [Wowhead](https://www.wowhead.com/)
