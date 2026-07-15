@@ -47,7 +47,7 @@ export default defineConfig({
       {
         text: '團本',
         items: [
-          { text: 'the Venomous Abyss', link: '/WoW/raids/the_Venomous_Abyss.md' }
+          { text: 'the Venomous Abyss', link: '/WoW/raids/the_Venomous_Abyss/index.md' }
         ]
       }
     ],

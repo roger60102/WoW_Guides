@@ -2,7 +2,7 @@
   
   <a href="/WoW_Guides/WoW/classes/Assassination_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="../../images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
     </div>
     <div class="card-title">刺殺盜賊筆記</div>
     <div class="card-desc"></div>
@@ -10,7 +10,7 @@
 
   <a href="/WoW_Guides/WoW/classes/Subtlety_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="../../images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
     </div>
     <div class="card-title">敏銳盜賊筆記</div>
     <div class="card-desc"></div>
@@ -18,7 +18,7 @@
 
   <a href="/WoW_Guides/WoW/classes/Outlaw_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="../../images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
     </div>
     <div class="card-title">暴徒盜賊筆記</div>
     <div class="card-desc"></div>
@@ -27,7 +27,7 @@
 </div>
 
 # 暴徒盜賊12.0
-![outlaw](../../images/outlaw.png)
+![outlaw](/images/outlaw.png)
 最後編輯時間: 2026/07/14
 
 ## 簡介
@@ -55,7 +55,7 @@
 <span class="tooltip">
 **速效毒藥**
 <span class="tooltiptext">
-<img src="../../images/instantpoison.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+<img src="/images/instantpoison.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
 **速效毒藥**<br>
 *瞬發*<br>
 在你的武器上塗抹猛烈毒藥，持續1小時。每次攻擊都有30%的機率使敵人中毒，立即造成自然傷害。
@@ -64,7 +64,7 @@
 <span class="tooltip">
 **萎縮毒藥**
 <span class="tooltiptext">
-<img src="../../images/atrophicpoison.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+<img src="/images/atrophicpoison.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
 **萎縮毒藥**<br>
 *瞬發*<br>
 在你的武器上塗抹非猛烈毒藥，持續1小時。每次攻擊有30%的機率使敵人中毒，使其造成的傷害降低3%，持續10秒。
@@ -73,7 +73,7 @@
 <span class="tooltip">
 **潛行**
 <span class="tooltiptext">
-<img src="../../images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+<img src="/images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
 **潛行**<br>
 *瞬發*<br>
 潛入暗影之中，使你能夠在不被發現的情況下追蹤敵人，直到主動取消。
@@ -83,15 +83,15 @@
 戰鬥過程使用技能集連擊點至**6個**以上，再使用終結技。
 終結技至少要有1個連擊點才能使用，並且消耗的連擊點多寡，會影響效果強度(如: 傷害、持續時間)。
 
-- <img src="../../images/sinisterstrike.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**邪惡攻擊**: 
+- <img src="/images/sinisterstrike.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**邪惡攻擊**: 
 最基本的連擊技能，獎勵1個連擊點。
-- <img src="../../images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**抹殺**: 
+- <img src="/images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**抹殺**: 
 最基本的終結技。
-- <img src="../../images/pistolshot.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**手槍射擊**: 
+- <img src="/images/pistolshot.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**手槍射擊**: 
 遠程連擊技，獎勵1個連擊點。只有在發亮時使用，可獎勵4個連擊點。
-- <img src="../../images/betweentheeyes.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**正中眉心**: 
+- <img src="/images/betweentheeyes.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**正中眉心**: 
 遠程技能，效益最高的終結技。CD結束就用。
-- <img src="../../images/bladeflurry.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃亂舞**: 
+- <img src="/images/bladeflurry.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃亂舞**: 
 使自身單體攻擊能以百分比複製至周圍目標。2目標以上且身上沒有劍刃亂舞時，CD結束就用。
 
 連擊技優先級: **劍刃亂舞** > **高亮手槍** > **邪惡攻擊**
@@ -107,9 +107,9 @@
 :::
 
 ### 核心能力
-- <img src="../../images/adrenalinerush.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**能量刺激**: 
+- <img src="/images/adrenalinerush.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**能量刺激**: 
 最重要的大招之一，增加攻速與能量回復速度、提高能量上限。CD結束就用。
-- <img src="../../images/rollthebones.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**命運之骰**: 
+- <img src="/images/rollthebones.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**命運之骰**: 
 隨機賦予四階效果中的其中一階。身上沒有骰子buff時，CD結束就用。
 
 ::: details
@@ -127,13 +127,13 @@
 ::: 
 
 ### CD技能
-- <img src="../../images/bladerush.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃猛攻**: 
+- <img src="/images/bladerush.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**劍刃猛攻**: 
 不消耗資源的技能，還能提供微量能量回復，會位移至目標周圍。CD結束就用。
-- <img src="../../images/killingspree.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**狂舞殘殺**: 
+- <img src="/images/killingspree.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**狂舞殘殺**: 
 引導型終結技，傷害一般，會在引導期間逐漸返還連擊點。CD結束就用。
-- <img src="../../images/keepitrolling.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**骰個不停**: 
+- <img src="/images/keepitrolling.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**骰個不停**: 
 使身上的骰子buff時間延長30秒。若身上骰子buff為三階以上，CD結束就用。
-- <img src="../../images/preparation.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**備戰**: 
+- <img src="/images/preparation.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**備戰**: 
 立即刷新**能量刺激**、**狂舞殘殺**、**劍刃猛攻**、**正中眉心**與**劍刃亂舞**。當**能量刺激**、**劍刃猛攻**與**正中眉心**CD時使用。
 
 連擊技優先級: **劍刃亂舞** > **高亮手槍** > **邪惡攻擊**

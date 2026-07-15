@@ -254,3 +254,64 @@
     flex-direction: row; /* 橫向並排 */
   }
 }
+
+/* 選擇器容器 */
+.boss-selector-container {
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* 按鈕群組 */
+.boss-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-self: center;
+}
+
+/* 單個按鈕樣式 */
+.boss-btn {
+  padding: 8px 16px;
+  border: 1px solid var(--vp-c-divider);
+  background-color: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+/* 滑鼠懸停按鈕 */
+.boss-btn:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}
+
+/* 當前選中按鈕的樣式（高亮） */
+.boss-btn.active {
+  background-color: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+  color: #ffffff !important; /* 強制文字變白 */
+}
+
+/* 攻略展示區域 */
+.boss-guide-display {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid var(--vp-c-divider);
+  background-color: var(--vp-c-bg-elv);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* 未選擇時的佔位提示框 */
+.boss-placeholder {
+  margin-top: 30px;
+  padding: 40px 20px;
+  border: 2px dashed var(--vp-c-divider);
+  border-radius: 8px;
+  text-align: center;
+  color: var(--vp-c-text-2);
+}

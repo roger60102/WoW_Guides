@@ -2,7 +2,7 @@
   
   <a href="/WoW_Guides/WoW/classes/Assassination_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="../../images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
     </div>
     <div class="card-title">刺殺盜賊筆記</div>
     <div class="card-desc"></div>
@@ -10,7 +10,7 @@
 
   <a href="/WoW_Guides/WoW/classes/Subtlety_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="../../images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
     </div>
     <div class="card-title">敏銳盜賊筆記</div>
     <div class="card-desc"></div>
@@ -18,7 +18,7 @@
 
   <a href="/WoW_Guides/WoW/classes/Outlaw_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="../../images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
     </div>
     <div class="card-title">暴徒盜賊筆記</div>
     <div class="card-desc"></div>
@@ -28,7 +28,7 @@
 
 # 敏銳盜賊12.0
 
-![subtlety](../../images/subtlety.png)
+![subtlety](/images/subtlety.png)
 
 ## 簡介
 

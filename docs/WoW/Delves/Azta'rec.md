@@ -1,6 +1,6 @@
 # 12.1(S2)探究死敵: Azta'rec
 
-![aztarec](../../images/aztarec.jpg)
+![aztarec](/images/aztarec.jpg)
 
 ## 簡介
 

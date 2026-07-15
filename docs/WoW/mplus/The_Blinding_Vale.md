@@ -1,4 +1,5 @@
 # 12.1(S2)M+: 盲目谷地
+![theblindingvale](/images/theblindingvale.jpg)
 
 ## 一王: 光綻三人組
 

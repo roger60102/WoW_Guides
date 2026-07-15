@@ -1,4 +1,5 @@
 # 12.1(S2)M+: 兇殺路
+![murderrow](/images/murderrow.jpg)
 
 ## 一王: 克絲提雅．法心
 

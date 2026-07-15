@@ -1,4 +1,5 @@
 # 12.1(S2)M+: 虛痕競技場
+![voidscararena](/images/voidscararena.jpg)
 
 ## 一王: 塔茲拉
 
