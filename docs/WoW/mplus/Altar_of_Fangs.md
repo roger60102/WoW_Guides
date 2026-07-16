@@ -1,4 +1,5 @@
 # 12.1(S2)M+: 毒牙祭壇
+![altaroffangs]()
 
 ## 一王: Rav'i
 

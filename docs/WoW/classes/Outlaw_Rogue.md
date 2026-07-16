@@ -1,32 +1,28 @@
 <div class="game-grid-container">
-  
   <a href="/WoW_Guides/WoW/classes/Assassination_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="/images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/assassination2.png" style="width: 30px; display: inline-block; vertical-align: middle;">
     </div>
-    <div class="card-title">刺殺盜賊筆記</div>
+    <div class="card-title">刺殺</div>
     <div class="card-desc"></div>
   </a>
-
   <a href="/WoW_Guides/WoW/classes/Subtlety_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="/images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/subtlety2.png" style="width: 30px; display: inline-block; vertical-align: middle;">
     </div>
-    <div class="card-title">敏銳盜賊筆記</div>
+    <div class="card-title">敏銳</div>
     <div class="card-desc"></div>
   </a>
-
   <a href="/WoW_Guides/WoW/classes/Outlaw_Rogue.html" class="game-card">
     <div class="card-icon">
-    <img src="/images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
+    <img src="/images/dispatch.jpg" style="width: 30px; display: inline-block; vertical-align: middle;">
     </div>
-    <div class="card-title">暴徒盜賊筆記</div>
+    <div class="card-title">暴徒</div>
     <div class="card-desc"></div>
   </a>
-
 </div>
 
-# 暴徒盜賊12.0
+# 暴徒盜賊12.0.7
 ![outlaw](/images/outlaw.png)
 最後編輯時間: 2026/07/14
 
@@ -49,7 +45,7 @@
 - 單體天賦代碼: CQQAphyM11FofNMFa1K3vFEDUCgx2MYmZmZmtZmZMjxsAzMbTLD2mBAAAAAYbbmZGmZmZGzMz2AAAAYGDYwsNLmZmRzMbMLssNtwGDwMzMzAD
 - aoe天賦代碼: CQQAphyM11FofNMFa1K3vFEDUCgx2MYmZmZmtZmZMzMzsAmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYADmtZxMzMamZjZhltpF2YAmZmZGYA
 
-## 技能
+## 指南
 ### 基礎循環
 首先塗好毒藥，通常是塗
 <span class="tooltip">

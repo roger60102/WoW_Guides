@@ -14,7 +14,7 @@ import thetwinfangs from './06_The_Twin_Fangs.md'
 import thecoiledaltar from './07_The_Coiled_Altar.md'
 import ulatek from './08_Ula\'tek.md'
 
-// 預設顯示1號首領，空值寫法: 
+// 預設顯示首領，空值寫法: 
 const selectedBoss = ref('')
 </script>
 
@@ -122,5 +122,5 @@ const selectedBoss = ref('')
 </div>
 
 <div class="boss-placeholder" v-else>
-  <p>💡 點擊按鈕選擇首領，即刻載入首領指南。</p>
+  <p>💡 點擊按鈕選擇首領，即刻載入首領筆記。</p>
 </div>
