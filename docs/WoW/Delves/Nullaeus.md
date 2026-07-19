@@ -18,16 +18,7 @@
 
 近戰攻擊造成6萬傷害(?難度)/12萬傷害(??難度)。**內爆打擊**為坦克專精挑戰時獨有技能，常規爆坦技。**虛無空虛**造成33萬傷害(?難度)/秒殺傷害(??難度)。
 
-血量剩餘75%、50%、25%時轉階段，努萊厄斯施放
-<span class="tooltip">
-**寂滅護罩**
-<span class="tooltiptext">
-<img src="/images/oblivionshell.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
-**寂滅護罩**<br>
-*瞬發*<br>
-努萊厄斯以虛無能量保護自身，受到的所有傷害降低100%。
-</span></span>
-，免疫所有傷害且無法被選中持續30秒，並引導**虛無球**新增一個持續至戰鬥結束的效果，同時召喚小怪。引導結束即會再次加入戰鬥，和小怪存活與否無關。
+血量剩餘75%、50%、25%時轉階段，努萊厄斯施放<Annotation file="oblivionshell">寂滅護罩</Annotation>，免疫所有傷害且無法被選中持續30秒，並引導**虛無球**新增一個持續至戰鬥結束的效果，同時召喚小怪。引導結束即會再次加入戰鬥，和小怪存活與否無關。
 
 - <img src="/images/implodingstrike.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**內爆打擊**: 
 對目標造成高額傷害。  
@@ -80,16 +71,7 @@
 對目標施加詛咒，5分鐘內降低移速30%。  
 (50碼)
 
-- 第三個**虛無球**效果: 
-<span class="tooltip">
-**晦影之怒**
-<span class="tooltiptext">
-<img src="/images/umbralrage.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">
-**晦影之怒**<br>
-*瞬發*<br>
-努萊厄斯被虛無能量超載，造成的所有傷害提高10%。此光環可堆疊。
-</span></span>
-，會週期性疊加增傷10%，需盡快結束戰鬥。若爆發傷害不足很容易出現同時面對法師和努萊厄斯的情況。由於法師血量高且免疫控制效果，建議此處開啟爆發，盡可能在30秒內擊殺法師。
+- 第三個**虛無球**效果: <Annotation file="umbralrage">晦影之怒</Annotation>，會週期性疊加增傷10%，需盡快結束戰鬥。若爆發傷害不足很容易出現同時面對法師和努萊厄斯的情況。由於法師血量高且免疫控制效果，建議此處開啟爆發，盡可能在30秒內擊殺法師。
 
 ## 獎勵
 - 首次擊敗任意難度可獲得成就**我的陰暗宿敵**，獎勵頭部塑形**努萊厄斯多曼之眼**，以及**英雄晨曦紋章30個**，且似乎不計入賽季上限。
