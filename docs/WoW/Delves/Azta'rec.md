@@ -1,4 +1,4 @@
-# 12.1(S2)探究死敵: Azta'rec
+# 12.1(S2)探究死敵: 阿茲塔瑞
 
 ![aztarec](/images/aztarec.jpg)
 

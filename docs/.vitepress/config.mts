@@ -28,7 +28,7 @@ export default defineConfig({
         text: '探究',
         items: [
           { text: '12.0(S1) 努萊厄斯', link: '/WoW/Delves/Nullaeus.md' },
-          { text: '12.1(S2) Azta\'rec', link: '/WoW/Delves/Azta\'rec.md' }
+          { text: '12.1(S2) 阿茲塔瑞', link: '/WoW/Delves/Azta\'rec.md' }
         ]
       },
       {
