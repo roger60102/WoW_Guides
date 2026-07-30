@@ -1,6 +1,5 @@
 ---
 layout: doc
-title: the Venomous Abyss
 ---
 
 <script setup>
@@ -18,8 +17,8 @@ import ulatek from './08_Ula\'tek.md'
 const selectedBoss = ref('')
 </script>
 
-# 12.1團本: the Venomous Abyss
-![thevenomousabyss]()
+# 12.1團本: 劇毒深淵
+![thevenomousabyss](/images/thevenomousabyss.jpg)
 
 ## 簡介
 
@@ -31,56 +30,56 @@ const selectedBoss = ref('')
       :class="{ active: selectedBoss === 'nekzalithesoulcoiler' }"
       class="boss-btn"
     >
-      1號首領: Nek'zali the Soulcoiler
+      1號首領: 『纏魂者』尼札利
     </button>
     <button 
       @click="selectedBoss = 'entombedsentinels'" 
       :class="{ active: selectedBoss === 'entombedsentinels' }"
       class="boss-btn"
     >
-      2號首領: Entombed Sentinels
+      2號首領: 埋葬衛哨
     </button>
     <button 
       @click="selectedBoss = 'vashnikthemalignant'" 
       :class="{ active: selectedBoss === 'vashnikthemalignant' }"
       class="boss-btn"
     >
-      3號首領: Vashnik the Malignant
+      3號首領: 『惡性​之​​毒』​伐許尼克
     </button>
     <button 
       @click="selectedBoss = 'thelostexplorers'" 
       :class="{ active: selectedBoss === 'thelostexplorers' }"
       class="boss-btn"
     >
-      4號首領: The Lost Explorers
+      4號首領: 迷路​的​​探險​者
     </button>
     <button 
       @click="selectedBoss = 'sszorak'" 
       :class="{ active: selectedBoss === 'sszorak' }"
       class="boss-btn"
     >
-      5號首領: Sszorak
+      5號首領: 司佐拉
     </button>
     <button 
       @click="selectedBoss = 'thetwinfangs'" 
       :class="{ active: selectedBoss === 'thetwinfangs' }"
       class="boss-btn"
     >
-      6號首領: The Twin Fangs
+      6號首領: 雙生​​毒牙
     </button>
     <button 
       @click="selectedBoss = 'thecoiledaltar'" 
       :class="{ active: selectedBoss === 'thecoiledaltar' }"
       class="boss-btn"
     >
-      7號首領: The Coiled Altar
+      7號首領: 盤蛇祭壇
     </button>
     <button 
       @click="selectedBoss = 'ulatek'" 
       :class="{ active: selectedBoss === 'ulatek' }"
       class="boss-btn"
     >
-      8號首領: Ula'tek
+      8號首領: 烏拉特克
     </button>
   </div>
 </div>

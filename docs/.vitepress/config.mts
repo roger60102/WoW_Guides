@@ -37,7 +37,7 @@ export default defineConfig({
           { text: '兇殺路', link: '/WoW/mplus/Murder_Row.md' },
           { text: '納羅拉克之穴', link: '/WoW/mplus/Den_of_Nalorakk.md' },
           { text: '盲目谷地', link: '/WoW/mplus/The_Blinding_Vale.md' },
-          { text: '虛痕競技場', link: '/WoW/mplus/Voidscar_Arena.md' },
+          { text: '虛無之痕競技場', link: '/WoW/mplus/Voidscar_Arena.md' },
           { text: '毒牙祭壇', link: '/WoW/mplus/Altar_of_Fangs.md' },
           { text: '諸王之眠', link: '/WoW/mplus/Kings\'_Rest.md' },
           { text: '瑟沙利斯神廟', link: '/WoW/mplus/Temple_of_Sethraliss.md' },
@@ -47,7 +47,7 @@ export default defineConfig({
       {
         text: '團本',
         items: [
-          { text: 'the Venomous Abyss', link: '/WoW/raids/the_Venomous_Abyss/index.md' }
+          { text: '劇毒深淵', link: '/WoW/raids/the_Venomous_Abyss/index.md' }
         ]
       }
     ],

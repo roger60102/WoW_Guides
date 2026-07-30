@@ -1,4 +1,4 @@
-## 1號首領: Nek'zali the Soucoiler
+## 1號首領: 『纏魂者』尼札利
 ![nekzalithesoucoiler]()
 
 ### 指南

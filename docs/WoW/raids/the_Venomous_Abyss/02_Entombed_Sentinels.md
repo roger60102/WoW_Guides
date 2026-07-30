@@ -1,4 +1,4 @@
-## 2號首領: Entombed Sentinels
+## 2號首領: 埋葬衛哨
 ![entombedsentinels]()
 
 ### 指南
