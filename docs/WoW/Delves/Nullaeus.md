@@ -33,8 +33,6 @@
 ### 第一次中場
 召喚2隻**刃殼劫毀者**，飛撲技能**尖刺之躍**可被躲避。還擁有施加高額流血的技能**鋸齒撕扯**，該技能只有15碼，而且是點名最近目標，適當調整距離可規避或讓瓦麗拉承受。2隻不會同時放同個技能且受控制效果影響。
 
-![razorshellravager](/images/razorshellravager.png)
-
 - <img src="/images/spinyleap.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**尖刺之躍**: 
 於目標位置刷新4碼地板技，施法成功時飛躍至該處。  
 (60碼/3秒施法/鋼條/自然傷害)
@@ -48,8 +46,6 @@
 ### 第二次中場
 召喚7隻**吐液蜱**，會遠程對目標疊加**含毒噴吐**，可被控制效果影響。
 
-![spittingtick](/images/spittingtick.jpg)
-
 - <img src="/images/poisonousspit.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**含毒噴吐**: 
 對目標施加dot，8秒內每2秒造成傷害。  
 (50碼/3秒施法/鋼條/自然傷害/可疊加)
@@ -58,8 +54,6 @@
 
 ### 第三次中場
 召喚1隻**被奴役的虛無法師**，血量有點高，會不斷施放**暗影箭**造成5萬傷害，偶爾還會施放**暗影暴擊**迫使玩家移動，以及詛咒技能**遲疑詛咒**。雖然前兩招皆可被打斷，但不建議這麼做，因為法師的近戰攻擊反而比較痛。
-
-![enslavedvoidcaster](/images/enslavedvoidcaster.jpg)
 
 - <img src="/images/shadowbolt.jpg" style="width: 30px; display: inline-block; vertical-align: middle; margin-right: 8px;">**暗影箭**: 
 對目標造成傷害。  

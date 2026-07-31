@@ -49,6 +49,12 @@ export default defineConfig({
         items: [
           { text: '劇毒深淵', link: '/WoW/raids/the_Venomous_Abyss/index.md' }
         ]
+      },
+      {
+        text: '巢穴',
+        items: [
+          { text: '妮莉莎．喚浪者', link: '/WoW/lairs/Nymrissa_Wavecaller.md' }
+        ]
       }
     ],
 
