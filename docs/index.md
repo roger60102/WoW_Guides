@@ -29,8 +29,26 @@ features:
     details: 羅列團本各Boss技能與應對
 ---
 
+## 🎮 快速捷徑: S2大秘境
+- [▶ 兇殺路](/WoW/mplus/Murder_Row.md)
+- [▶ 納羅拉克之穴](/WoW/mplus/Den_of_Nalorakk.md)
+- [▶ 盲目谷地](/WoW/mplus/The_Blinding_Vale.md)
+- [▶ 虛痕競技場](/WoW/mplus/Voidscar_Arena.md)
+- [▶ 毒牙祭壇](/WoW/mplus/Altar_of_Fangs.md)
+- [▶ 諸王之眠](/WoW/mplus/Kings\'_Rest.md)
+- [▶ 瑟沙利斯神廟](/WoW/mplus/Temple_of_Sethraliss.md)
+- [▶ 晶紅生命之池](/WoW/mplus/Ruby_Life_Pools.md)
+
+## 📝 預計更新
+- 新增其他職業上手筆記
+- 新增S2探究死敵、M+與團本筆記
+
 ## 📢 最近更新
-- **2026/07/21**: 
+- **2026/08/04**: 
+  - 更新部分翻譯名稱
+  - 探究死敵阿茲塔瑞筆記草稿
+  - 新增巢穴首領頁面
+- **2026/07/28**: 
   - 敏銳盜賊筆記草稿
 - **2026/07/21**: 
   - 刺殺盜賊筆記草稿
@@ -45,17 +63,3 @@ features:
   - 暴徒盜賊筆記草稿  
 - **2026/06/30**: 
   - 網站初步建立!
-
-## 📝 預計更新
-- 新增其他職業上手筆記
-- 新增S2探究死敵、M+與新團本筆記
-
-## 🎮 快速捷徑: S2大秘境
-- [▶ 兇殺路](/WoW/mplus/Murder_Row.md)
-- [▶ 納羅拉克之穴](/WoW/mplus/Den_of_Nalorakk.md)
-- [▶ 盲目谷地](/WoW/mplus/The_Blinding_Vale.md)
-- [▶ 虛痕競技場](/WoW/mplus/Voidscar_Arena.md)
-- [▶ 毒牙祭壇](/WoW/mplus/Altar_of_Fangs.md)
-- [▶ 諸王之眠](/WoW/mplus/Kings\'_Rest.md)
-- [▶ 瑟沙利斯神廟](/WoW/mplus/Temple_of_Sethraliss.md)
-- [▶ 晶紅生命之池](/WoW/mplus/Ruby_Life_Pools.md)
