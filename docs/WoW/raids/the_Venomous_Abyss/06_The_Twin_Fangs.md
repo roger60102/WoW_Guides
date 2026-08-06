@@ -1,4 +1,6 @@
 ## 6號首領: 雙生​​毒牙
-![thetwinfangs]()
+![thetwinfangs](/images/thetwinfangs.png)
 
-### 指南
+## 簡介
+
+## 指南

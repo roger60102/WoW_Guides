@@ -20,7 +20,17 @@ const selectedBoss = ref('')
 # 12.1團本: 劇毒深淵
 ![thevenomousabyss](/images/thevenomousabyss.jpg)
 
-## 簡介
+位於**盤蛇島的阿塔烏特克寶庫**內，共三個位置可進入(座標: 43.3, 44.2、45.4, 65.9以及31.8, 64.9)，而團本入口則位於寶庫內北邊(座標: 47.2, 21.7)。
+![thevenomousabyss](/images/thevenomousabyss2.jpg)
+
+### 團本結構: 
+共8個首領，一王後可選擇先前往二、三王或四、五王，之後匯聚再依序挑戰六、七以及尾王。
+
+### 團隊搜尋器: 
+- 第一區: 纏魂者(一王『**纏魂者**』**尼札利**與六王**雙生毒牙**)
+- 第二區: 劇毒精華(二王**埋葬衛哨**與三王『**惡性之毒**』**伐許尼克**)
+- 第三區: 巨蛇地穴(四王**迷路的探險者**與五王**司佐拉**)
+- 第四區: 烏拉特克之墓(七王**盤牙祭壇**與尾王**烏拉特克**)
 
 ## 🗺️ 快速導覽
 <div class="boss-selector-container">
@@ -123,3 +133,6 @@ const selectedBoss = ref('')
 <div class="boss-placeholder" v-else>
   <p>💡 點擊按鈕選擇首領，即刻載入首領筆記。</p>
 </div>
+
+## 資料參考
+- [Wowhead](https://www.wowhead.com/)

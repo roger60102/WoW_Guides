@@ -1,4 +1,6 @@
 ## 7號首領: 盤蛇祭壇
-![thecoiledaltar]()
+![thecoiledaltar](/images/thecoiledaltar.png)
 
-### 指南
+## 簡介
+
+## 指南

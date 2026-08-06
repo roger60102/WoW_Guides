@@ -1,4 +1,6 @@
 ## 8號首領: 烏拉特克
-![ulatek]()
+![ulatek](/images/ulatek.png)
 
-### 指南
+## 簡介
+
+## 指南
