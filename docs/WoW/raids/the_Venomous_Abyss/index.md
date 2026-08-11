@@ -6,8 +6,8 @@ layout: doc
 import { ref } from 'vue'
 import nekzalithesoulcoiler from './01_Nek\'zali_the_Soulcoiler.md'
 import entombedsentinels from './02_Entombed_Sentinels.md'
-import vashnikthemalignant from './03_Vashnik_the_Malignant.md'
-import thelostexplorers from './04_The_Lost_Explorers.md'
+import thelostexplorers from './03_The_Lost_Explorers.md'
+import vashnikthemalignant from './04_Vashnik_the_Malignant.md'
 import sszorak from './05_Sszorak.md'
 import thetwinfangs from './06_The_Twin_Fangs.md'
 import thecoiledaltar from './07_The_Coiled_Altar.md'
@@ -24,13 +24,13 @@ const selectedBoss = ref('')
 ![thevenomousabyss](/images/thevenomousabyss2.jpg)
 
 ### 團本結構: 
-共8個首領，一王後可選擇先前往二、三王或四、五王，之後匯聚再依序挑戰六、七以及尾王。
+共8個首領，一王後可選擇先前往二、四王或三、五王，之後匯聚再依序挑戰六、七以及尾王。
 
 ### 團隊搜尋器: 
 - 第一區: 纏魂者(一王『**纏魂者**』**尼札利**與六王**雙生毒牙**)
-- 第二區: 劇毒精華(二王**埋葬衛哨**與三王『**惡性之毒**』**伐許尼克**)
-- 第三區: 巨蛇地穴(四王**迷路的探險者**與五王**司佐拉**)
-- 第四區: 烏拉特克之墓(七王**盤牙祭壇**與尾王**烏拉特克**)
+- 第二區: 劇毒精華(二王**埋葬衛哨**與四王『**惡性之毒**』**伐許尼克**)
+- 第三區: 巨蛇地穴(三王**迷路的探險者**與五王**司佐拉**)
+- 第四區: 烏拉特克之墓(七王**盤蛇祭壇**與尾王**烏拉特克**)
 
 ## 🗺️ 快速導覽
 <div class="boss-selector-container">
@@ -50,18 +50,18 @@ const selectedBoss = ref('')
       2號首領: 埋葬衛哨
     </button>
     <button 
-      @click="selectedBoss = 'vashnikthemalignant'" 
-      :class="{ active: selectedBoss === 'vashnikthemalignant' }"
-      class="boss-btn"
-    >
-      3號首領: 『惡性​之​​毒』​伐許尼克
-    </button>
-    <button 
       @click="selectedBoss = 'thelostexplorers'" 
       :class="{ active: selectedBoss === 'thelostexplorers' }"
       class="boss-btn"
     >
-      4號首領: 迷路​的​​探險​者
+      3號首領: 迷路​的​​探險​者
+    </button>
+    <button 
+      @click="selectedBoss = 'vashnikthemalignant'" 
+      :class="{ active: selectedBoss === 'vashnikthemalignant' }"
+      class="boss-btn"
+    >
+      4號首領: 『惡性​之​​毒』​伐許尼克
     </button>
     <button 
       @click="selectedBoss = 'sszorak'" 
@@ -104,12 +104,12 @@ const selectedBoss = ref('')
     <entombedsentinels />
   </div>
 
-  <div v-if="selectedBoss === 'vashnikthemalignant'">
-    <vashnikthemalignant />
-  </div>
-
   <div v-if="selectedBoss === 'thelostexplorers'">
     <thelostexplorers />
+  </div>
+
+  <div v-if="selectedBoss === 'vashnikthemalignant'">
+    <vashnikthemalignant />
   </div>
 
   <div v-if="selectedBoss === 'sszorak'">

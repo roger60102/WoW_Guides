@@ -12,7 +12,7 @@ export default defineConfig({
       warningLabel: '注意',
       dangerLabel: '致命',
       infoLabel: '資訊',
-      detailsLabel: '優化細節'
+      detailsLabel: '優化與細節'
     }
   },
 
