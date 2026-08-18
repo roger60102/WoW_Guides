@@ -7,7 +7,7 @@ hero:
   text: "職業與首領戰筆記"
   tagline: 簡單清晰好記憶!
   image: 
-    src: /images/Curse_of_UlaTek.png
+    src: /images/curseofulatekzhtw.png
     alt: Curse_od_UlaTek
   actions:
     - theme: brand
@@ -44,10 +44,16 @@ features:
 - 新增S2探究死敵、M+與團本筆記
 
 ## 📢 最近更新
+- **2026/08/18**: 
+  - 新增M+盲目谷地草稿
+  - 新增M+虛無之痕競技場草稿
+  - 新增M+諸王之眠草稿
+  - 新增M+瑟沙利斯神廟草稿
 - **2026/08/11**:
   - 暴徒盜賊筆記初步更新
   - 新增巢穴、團本前瞻簡介
-  - 新增毒牙祭壇與納羅拉克之穴的草稿
+  - 新增M+毒牙祭壇草稿
+  - 新增M+納羅拉克之穴的草稿
 - **2026/08/04**: 
   - 更新部分翻譯名稱
   - 探究死敵阿茲塔瑞筆記草稿
